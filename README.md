@@ -1,9 +1,15 @@
 # PUSH-BUTTON-COUNTER
+
 COMPANY:CODTECH IT SOLUTIONS
+
 INTERN ID : CT04DH8046
+
 DOMAIN : EMBEDDED SYSTEMS
+
 DURATION : 4 WEEKS
+
 MENTOR:NEELA SANTHOSH
+
 TASK DESCRIPTION:
 The objective of this project is to build a simple digital counter that counts the number of times a push button is pressed. The count is displayed in real-time on a 16x2 LCD module connected via I2C interface to an Arduino UNO. This project demonstrates the integration of input (push button) and output (LCD display) components with a microcontroller to build an interactive embedded system. It is suitable for beginners to understand digital input reading, debouncing, and I2C communication with displays.
 WORKING PRINCIPLE:
